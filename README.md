@@ -1,1 +1,1 @@
-# jhc-courseware-meetups-23-dec-serverless-deployments-backend
+# Meetups - 23 Dec 2023 - Serverless Deplopyments - Backend App
